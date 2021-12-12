@@ -1,0 +1,11 @@
+                                                                      EmailRec
+
+1.Email providers usually have duration in which inactive users are removed and the account name becomes available once again when creating new accounts.
+
+2.This can lead to problems when websites, forums, games, etc.. use email recovery for accounts.
+
+3.If you know that an email has been used on some kind of forum and see that the email is not currently registered -> You can register it and steal the forum account 
+by using the recovery button on the forum and it is sent to the email you registered.
+
+4.This can be harmful if someone has access to your forum account and they can impersonate you or read private messages.
+
